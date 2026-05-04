@@ -3,17 +3,7 @@
 
 ---
 
-## 🖼️ Showcase
-
-<p align="center">
-  <img src="assets/tree.png" width="250"/>
-  <img src="assets/house.png" width="250"/>
-  <img src="assets/car.png" width="250"/>
-</p>
-
----
-
-## 🧠 About the Project
+## 🧠 About the Projects
 
 This repository contains a collection of low-poly 3D models focused on clean geometry, simple textures, and aesthetic lighting.
 
