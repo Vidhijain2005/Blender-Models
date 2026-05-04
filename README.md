@@ -26,8 +26,8 @@ This repository contains a collection of low-poly 3D models focused on clean geo
 
 ## 📁 Structure
 
-exports/ → renders
-core-models/ → .blend files
+*exports/ → renders
+*core-models/ → .blend files
 
 ---
 
